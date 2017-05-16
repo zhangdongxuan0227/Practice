@@ -30,3 +30,5 @@ for c in text:
 
 if currentCharIsSpace:
     currentCharIsSpace = False
+
+
